@@ -22,10 +22,10 @@ A powerful, redesigned Instagram brute-force testing tool built for **educationa
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/dark-player/igbrute
+$ git clone https://github.com/dark-player/ighack2025
 
 # Navigate into the folder
-$ cd igbrute
+$ cd ighack2025
 
 # Run setup
 $ bash setup
