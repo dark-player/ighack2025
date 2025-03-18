@@ -1,0 +1,17 @@
+{
+  "name": "IG-Hack v2.5",
+  "tagline": "Enhanced and Redesigned for Performance",
+  "version": "2.5",
+  "author": "Infinity Trickster",
+  "repository": "https://github.com/dark-player/igbrute",
+  "downloads": {
+    "zip": "https://github.com/dark-player/igbrute/zipball/master",
+    "tar": "https://github.com/dark-player/igbrute/tarball/master"
+  },
+  "settings": {
+    "default_color": "cyan",
+    "allow_custom_themes": true,
+    "debug_mode": false
+  },
+  "note": "Don't delete this file! It's used internally to help with page regeneration and settings handling."
+}
